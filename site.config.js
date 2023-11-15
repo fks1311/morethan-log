@@ -7,12 +7,12 @@ const CONFIG = {
     bio: "I develop everything using node.",
     email: "fks1311@gmail.com",
     linkedin: "",
-    github: "https://github.com/fks1311",
+    github: "fks1311",
     instagram: "",
   },
   projects: [
     {
-      name: `nothing`,
+      name: ``,
       href: "",
     },
   ],
